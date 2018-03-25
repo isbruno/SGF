@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SGF</string>
+    <string name="cadastro">Cadastro SGF</string>
+    <string name="cadastro_nome">Nome:</string>
+    <string name="cadastro_senha">Senha:</string>
+    <string name="cadastro_confirmarSenha">Confirmar senha:</string>
+    <string name="cadastro_cadastrar">Criar nova conta SGF</string>
 </resources>
