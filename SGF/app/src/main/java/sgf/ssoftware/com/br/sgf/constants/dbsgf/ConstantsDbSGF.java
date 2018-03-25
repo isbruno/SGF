@@ -4,7 +4,7 @@ package sgf.ssoftware.com.br.sgf.constants.dbsgf;
 public class ConstantsDbSGF {
 
     public static final int DATABASE_VERSION = 1;
-    public static final String DATABASE_NAME = "SGF";
+    public static final String DATABASE_NAME = "SGFActivity";
 
     //Strings nomeclatura das tabelas e campos
     public static final String NOME_TABELA_USUARIO_SGF = "usuario_sgf";

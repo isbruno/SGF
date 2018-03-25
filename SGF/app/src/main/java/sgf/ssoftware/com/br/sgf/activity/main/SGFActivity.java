@@ -7,7 +7,7 @@ import android.os.Bundle;
 import sgf.ssoftware.com.br.sgf.R;
 import sgf.ssoftware.com.br.sgf.teste.cadastro.TesteInserirUsuarioSGF;
 
-public class SGF extends AppCompatActivity {
+public class SGFActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
